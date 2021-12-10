@@ -24,8 +24,8 @@ The following webpage was refactored in order for the codebase to follow accessi
 * Changed ".header div ul" to ".nav ul" to reflect "ul" tag in the "nav" tag in html file. 
 * Changed ".header div ul li" to ".nav ul li" to reflect "li" tag in the "nav" tag in the html file. 
 * Removed classes ".benefit-lead", ".benefit-brand", and ".benefit-cost" to consolidate their codes underneath new class selector ".benefits article".
-* Removed classes ".benefits-lead h3", ".benefits-brand h3", and ".benefits-cost h3" to consolidate h3 code under new class selector ".benefit h3"
-* Removed classes ".benefit-lead img", ".benefit-brand img", and ".benefit-cost img" then consolidated their img code under new class selector ".benefit img"
+* Removed classes ".benefits-lead h3", ".benefits-brand h3", and ".benefits-cost h3" to consolidate h3 code under new class selector ".benefits h3"
+* Removed classes ".benefit-lead img", ".benefit-brand img", and ".benefit-cost img" then consolidated their img code under new class selector ".benefits img"
 * Removed classes ".search-engine-optimization", ".online-reputation-management", and ".social-media marketing", then consolidated the code under new class selector ".content article"
 * Removed classes ".search-engine-optimization img", ".online-reputation-management img", and ".social-media-marketing img". Then consolidated the img code under new class selector ".content img".
 * Removed classes ".search-engine-optimization h2", ".online-reputation-management h2", and ".social-media-marketing h2", then consolidated the code under new class selector ".content h2".
