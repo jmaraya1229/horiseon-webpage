@@ -1,7 +1,7 @@
 # Horiseon webpage
 
 ## The Task
-The following webpage was refactored in order for the codebase to follow accessibility standards so that the web site would be optimized for search engines. Modifications were made to the index.html and style.css in order to fulfill this requirement. 
+The following webpage was refactored in order for the codebase to follow accessibility standards. Modifications were made to the index.html and style.css in order to fulfill this requirement. 
 
 ## HTML Modifications
 * Changed "website" in title tag to "Horiseon" to reflect the webpage.
