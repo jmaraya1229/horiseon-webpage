@@ -91,53 +91,24 @@ p {
     background-color: #2589bd;
 }
 
-.benefit-lead {
+#benefittext {
     margin-bottom: 32px;
     color: #ffffff;
 }
+/*Removed class "benefit-lead", "benefit-brand", and "benefit-cost" to consolidate their codes underneath new id "benefitstext"*/
 
-.benefit-brand {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-cost {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-lead h3 {
+.benefit h3 {
     margin-bottom: 10px;
     text-align: center;
 }
+/*Removed .benefit-lead h3, .benefit-brand h3, and .benefit-cost h3 to consolidate h3 code under .benefit h3*/
 
-.benefit-brand h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-cost h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-lead img {
+#benefitimg {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
-
-.benefit-brand img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.benefit-cost img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
+/* Removed .benefit-lead img, .benefit-brand img, and .benefit-cost omg then consolidated their img code under id "benefitimg"*/
 
 .search-engine-optimization {
     margin-bottom: 20px;
