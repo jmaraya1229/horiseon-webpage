@@ -21,9 +21,9 @@ The following webpage was refactored in order for the codebase to follow accessi
 ## CSS Modifications
 * Changed ".header div" to ".nav" to reflect "nav" tag in html file. 
 * Changed ".header div ul" to ".nav ul" to reflect "ul" tag in the "nav" tag in html file. 
-* Changed ".header div ul li" to 
+* Changed ".header div ul li" to ".nav ul li" to reflect "li" tag in the "nav" tag in the html file. 
 
 
 
 ## Link to project
-*
+* https://jmaraya1229.github.io/horiseon-webpage/
